@@ -1,0 +1,24 @@
+.col-lg-4{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.servicios .card{
+    width: 300px;
+    color: rgb(0, 0, 0);
+}
+
+.servicios .card-img-top{
+    width: 299px;
+    height: 170px;
+}
+
+p{
+    font-size: 20px;
+    text-align: center;
+}
+
+.accordion-body h5{
+    color: rgb(13, 25, 192);
+}
